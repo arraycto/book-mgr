@@ -1,2 +1,4 @@
 book-mgr-fe/node_modules
 book-mgr-be/node_modules
+.DS_Store
+*/.DS_Store
