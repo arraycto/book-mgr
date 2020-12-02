@@ -3,7 +3,7 @@ const koa = require('koa')
 const app = new koa();
 
 app.use(async context => {
-  context.body = 'hello'
+  context.body = 'hello koa'
 })
 
 app.listen(3000, () => {
